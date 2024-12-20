@@ -1,5 +1,6 @@
 # 7 marks from ts in final exam
 print("hellow world")
+print("whr the oes att")
 '''
 a = "python"
 b = a.upper()
